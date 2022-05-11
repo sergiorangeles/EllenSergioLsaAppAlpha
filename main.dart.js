@@ -68156,7 +68156,7 @@ ul(a){return this.a7n(a)},
 a7n(a){var s=0,r=A.B(t.H),q=this,p,o,n,m
 var $async$ul=A.x(function(b,c){if(b===1)return A.y(c,r)
 while(true)switch(s){case 0:A.b4().$1("the string to analyze: "+a)
-p=A.ic("http://sergiorangeles.pythonanywhere.com/analyze")
+p=A.ic("https://sergiorangeles.pythonanywhere.com/analyze")
 o=t.N
 n=A.a7(["Content-Type","application/json","Access-Control-Allow-Origin","*"],o,o)
 s=2
